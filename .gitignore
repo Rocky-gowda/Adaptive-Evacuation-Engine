@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+backend/disaster.db
+frontend/node_modules/
+.env
